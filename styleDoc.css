@@ -1,0 +1,130 @@
+
+li
+{
+    margin: 5px;
+}
+#bn
+{
+    background: white;
+}
+#p
+{
+    display: inline-flex;
+    width: 70%;
+    margin: 4%;
+    margin-left: 14%;
+    font-size: 1.5em;
+    color: rgb(114, 113, 114);
+}
+#patient
+{
+    font-size: 1.5em;
+    margin-left: 2%;
+    border-radius: 7px;
+    background-color:turquoise;
+    width: 25%;
+    padding: 35px
+
+}
+#medecin
+{
+    font-size: 1.5em;
+    margin-left: 2%;
+    border-radius: 7px;
+    background-color:rgb(21, 85, 202);
+    width: 25%;
+    padding: 35px
+}
+#clinique
+{
+    font-size: 1.5em;
+    margin-left: 2%;
+    border-radius: 7px;
+    background-color:rgb(26, 31, 30);
+    width: 25%;
+    padding: 35px
+}
+#liens1
+{
+    margin-top: 5%;
+    width: 55%;
+    font-size: 1.75em;
+}
+#liens1 a
+{
+
+    margin: 10px;
+    color: grey;
+}
+#liens2
+{
+    margin-top: 2%;
+    display: inline-flex;
+
+}
+#liens2 a
+{
+    margin: 10px;
+    color: grey;
+}
+
+#body1
+{
+    margin-top: 2%;
+    padding: 10px;
+    background: rgb(214, 241, 245);
+    display:flex;
+    height: 580px;
+}
+#leader
+{
+    width: 250px;
+    padding: 10px;
+    height: 250px;
+    background: white;
+    border-radius: 5px;
+}
+#img_body
+{
+    margin-left:-502%; 
+    width: 300px;
+    margin-top: -195%;
+}
+.bloc
+{
+    margin: 2%;
+    border-radius: 10px;
+    margin-left: 5%;
+    display: flex;
+}
+.bloc div 
+{
+    margin: 2%;
+}
+.card:hover
+{
+    box-shadow: 5px 9px 25px rgb(201, 200, 199);
+}
+.btn{
+    margin-left: 170px;
+    margin-top: -40px;
+}
+
+.button
+{
+    padding: 10px;
+   border-radius: 5px;
+   color:white;
+   background: rgb(48, 134, 233);
+}
+.card-body
+{
+    padding: 20px;
+   
+}
+.card,text-center
+{
+    font-size: 1.4em;
+    font-weight: 100;
+    margin-top: 7%;
+}
